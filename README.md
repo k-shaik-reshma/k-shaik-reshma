@@ -12,7 +12,7 @@
 
 ## About Me 🙋
 
-&nbsp;&nbsp;&nbsp; I am a full stack developer with a passion driven development having 4+ years of experience. I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
+&nbsp;&nbsp;&nbsp; I am a full stack developer with a passion driven development having 3+ years of experience. I am super enthusiast to build products from scratch by experimenting with different technologies. I love to contribute my knowledge and experience to open source projects.
 
 ## Skill Set 💪
 
@@ -84,4 +84,4 @@
 
 &nbsp;
 
-![](https://komarev.com/ghpvc/?username=SamalaSumanth0262&label=PROFILE%20VIEWS)
+![](https://komarev.com/ghpvc/?username=k-shaik-reshma&label=PROFILE%20VIEWS)
